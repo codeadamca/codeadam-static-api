@@ -2,7 +2,8 @@
 
 A temporary static API for testing [codeadam.ca](https://codeadam.ca).
 
-- https://raw.githubusercontent.com/codeadamca/codeadam-static-api/main/socials.json
+> This JSON file can be viewed here:
+> https://raw.githubusercontent.com/codeadamca/codeadam-static-api/main/socials.json
 
 ---
 
